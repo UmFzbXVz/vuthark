@@ -63,7 +63,8 @@ const runePercentOffsets = {
     'ᛉ':9,
     'ᛇ': 12.5,
     'ᛏ': 13,
-    'ᚢ': -1.5
+    'ᚢ': -1.5,
+    'ᚺ': -0.5
 };
 const runeWidthScales = {
     'ᛖ': 1.055,
@@ -72,7 +73,8 @@ const runeWidthScales = {
     'ᛉ': 0.94,
     'ᛟ': 1.14,
     'ᛏ': 0.97,
-    'ᚢ': 1.135
+    'ᚢ': 1.135,
+    'ᚺ': 1.06
 };
 
 let userRuneOffsets = [];
